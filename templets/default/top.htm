@@ -1,0 +1,27 @@
+<!-- S page-title -->
+
+<div class="page-width clearfix" style="margin-top:20px;">
+  <section class="page-title page-title-inner clearfix"><!-- S breadcrumbs -->
+    <div class="breadcrumbs float-left" skinobjectzone="HtmlBreadCrumb_2939"><span>当前位置：</span>{dede:field name='position'/}</div>
+    <!-- E breadcrumbs --></section>
+</div>
+<!-- E page-title -->
+<section class="full-page-title-wrap clearfix" skinobjectzone="menu_3058">
+  <h2>{dede:field name='typeid' function="GetTopTypename(@me) /}</h2>
+  <div class="full-page-title"><i class="mark-left"></i> <i class="mark-right"></i></div>
+</section>
+<!-- S page-menu -->
+<section class="full-page-menu" skinobjectzone="menu_3133">
+  <div class="justified-area">
+    <div class="page-width">
+      <ul class="clearfix" >
+        {dede:channel type ='son'  currentstyle="
+        <li><a href='~typelink~' class='current'>~typename~</a></li>
+        "}
+        <li><a href="[field:typelink/]" class="">[field:typename/]</a></li>
+        {/dede:channel}
+      </ul>
+      <!-- 没有子菜单时输出 --></div>
+  </div>
+</section>
+<!-- S page-menu -->

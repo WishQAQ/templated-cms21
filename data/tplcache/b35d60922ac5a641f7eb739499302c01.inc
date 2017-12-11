@@ -1,0 +1,1 @@
+<p style="text-align: center;"> <a href="[field:typeurl /]" target="_blank"><img alt="" src="/skin/img/50c372cd-df7c-4235-9660-621bad3fa267.jpg" style="width: 263px; height: 230px;" /></a></p>

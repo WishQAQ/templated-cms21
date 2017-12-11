@@ -1,0 +1,1 @@
+<p style="line-height: 25px;"> <span style="font-size: 16px; line-height: 1.8;"><a class="btn-medium btn-medium-assist" href="[field:typeurl /]" target="_blank" title="查看详情"><span>查看详情</span></a></span></p>

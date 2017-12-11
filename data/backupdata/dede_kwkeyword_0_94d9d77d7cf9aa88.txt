@@ -1,0 +1,3 @@
+INSERT INTO `dede_kwkeyword` VALUES('1','44','公司动态','0','0','3','1461398114');
+INSERT INTO `dede_kwkeyword` VALUES('2','45','注意事项','0','0','4','1461398068');
+INSERT INTO `dede_kwkeyword` VALUES('3','47','客户见证','0','0','1','1461380006');

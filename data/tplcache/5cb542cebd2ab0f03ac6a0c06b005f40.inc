@@ -1,0 +1,1 @@
+<div class="back-category"><a href="[field:typelink /]"><span>查看更多</span> <span>[field:typename /]</span></a></div>

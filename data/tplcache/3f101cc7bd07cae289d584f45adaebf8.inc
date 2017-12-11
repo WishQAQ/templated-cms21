@@ -1,0 +1,1 @@
+<div class="carousel-img"><a href="[field:typeurl /]" target="_blank"><img src="/skin/img/be84768b-3a15-4f3a-8bfd-cca611a3d6d1.jpg" alt="广告轮换1" /></a></div>

@@ -1,0 +1,1 @@
+<li><a href="javascript:;" target=""><img src="[field:picname/]" height="74" data-large-src="[field:picname/]" alt="[field:title/]" /></a></li>
